@@ -1,4 +1,4 @@
 # Clone
 Amazon clone 
 <br>
-Author- Akshay Kumar
+Author- Akshay choudhary
